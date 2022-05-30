@@ -1,7 +1,7 @@
 # Handling raw chromatography-mass spectrometry data
 
 
-| For what it can be used  | Name Package  |   
+| Description              | Name Package  |   
 |:------------------------:|:-------------:|
 |Imports data from multiple netCDF files to hdf5 database file, intra-sample (within sample) m/z peaks drift correction, ion Chromatogram noise filtering and baseline correction, inter-sample (between samples) chromatographic peak alignment, efficient detection of chromatographic peaks, total Ion Chromatogram visualisation              | MSHub         |   
 
