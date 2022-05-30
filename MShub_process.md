@@ -1,4 +1,4 @@
-# Handling raw chromatography-mass spectromtery data
+# Handling raw chromatography-mass spectrometry data
 
 
 | For what it can be used  | Name Package  |   
