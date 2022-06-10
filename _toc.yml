@@ -7,5 +7,5 @@ chapters:
 - file: markdown
 - file: notebooks
 - file: markdown-notebooks
-- file: MShub_process
+- file: mass_spectrometry_data
 - file: Analysing_chemical_units
