@@ -8,3 +8,4 @@ chapters:
 - file: notebooks
 - file: markdown-notebooks
 - file: mass_spectrometry_data
+- file: Analysing_chemical_units
