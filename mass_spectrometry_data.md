@@ -1,4 +1,4 @@
-# Handling chromatography-mass spectrometry data
+# Processing chromatography-mass spectrometry data
 
 
 |Name Package | Description| 
