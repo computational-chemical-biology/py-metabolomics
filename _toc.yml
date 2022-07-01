@@ -9,3 +9,5 @@ chapters:
 - file: markdown-notebooks
 - file: mass_spectrometry_data
 - file: Analysing_chemical_units
+- file: metabolite_identification_with_MS_data
+
