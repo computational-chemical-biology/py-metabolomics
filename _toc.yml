@@ -3,12 +3,43 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
-- file: introduction
-- file: python_packages_for_metabolomics/mass_spectrometry_data
-- file: python_packages_for_metabolomics/Analysing_chemical_units
-- file: python_packages_for_metabolomics/metabolite_identification_with_MS_data
-
+parts:
+- caption: Old Files
+  chapters:
+  - file: markdown
+  - file: notebooks
+  - file: markdown-notebooks
+  - file: python_packages_for_metabolomics/mass_spectrometry_data
+  - file: python_packages_for_metabolomics/Analysing_chemical_units
+  - file: python_packages_for_metabolomics/metabolite_identification_with_MS_data
+- caption: Introduction
+  chapters:
+  - file: python_packages_for_metabolomics/introduction/0101_metabolomics_data_processing
+  - file: python_packages_for_metabolomics/introduction/0102_the_python_landscape
+  - file: python_packages_for_metabolomics/introduction/0103_dependencies_and_connectivity
+- caption: Introduction
+  chapters:
+  - file: python_packages_for_metabolomics/python_packages/020100_data_handling
+  - file: python_packages_for_metabolomics/python_packages/020101_profile_centroided
+  - file: python_packages_for_metabolomics/python_packages/020102_direct_infusion
+  - file: python_packages_for_metabolomics/python_packages/020103_hyphenated_non_targeted
+  - file: python_packages_for_metabolomics/python_packages/020104_targeted_data
+  - file: python_packages_for_metabolomics/python_packages/020105_additional_dimensionality
+  - file: python_packages_for_metabolomics/python_packages/020106_structuring_data
+  - file: python_packages_for_metabolomics/python_packages/020107_ion_grouping_annotation
+  - file: python_packages_for_metabolomics/python_packages/020200_metabolite_identification
+  - file: python_packages_for_metabolomics/python_packages/020201_msms_data_handling
+  - file: python_packages_for_metabolomics/python_packages/020202_reading_spectral_databases
+  - file: python_packages_for_metabolomics/python_packages/020300_nmr_data_handling
+  - file: python_packages_for_metabolomics/python_packages/020400_uv_data_handling
+  - file: python_packages_for_metabolomics/python_packages/020500_statistical_analysis
+  - file: python_packages_for_metabolomics/python_packages/020600_handling_molecule_structures
+  - file: python_packages_for_metabolomics/python_packages/020700_network_analysis
+  - file: python_packages_for_metabolomics/python_packages/020701_network_infrastructure
+  - file: python_packages_for_metabolomics/python_packages/020702_metabolite_annotation
+  - file: python_packages_for_metabolomics/python_packages/020703_generation_metabolic_networks
+  - file: python_packages_for_metabolomics/python_packages/020704_pathway_analysis
+  - file: python_packages_for_metabolomics/python_packages/020705_pathway_resources_interfaces
+  - file: python_packages_for_metabolomics/python_packages/020800_multifunctional_workflows
+  - file: python_packages_for_metabolomics/python_packages/020900_user_interfaces
+  - file: python_packages_for_metabolomics/python_packages/021000_metabolomics_data_sets
