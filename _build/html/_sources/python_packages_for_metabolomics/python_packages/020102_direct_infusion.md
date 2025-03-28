@@ -1,1 +1,0 @@
-## 2.1.2. Direct Infusion Mass Spectrometry Data 

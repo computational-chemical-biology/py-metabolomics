@@ -1,1 +1,0 @@
-## 2.1.4. Targeted Data and Alternative Representations of Data
